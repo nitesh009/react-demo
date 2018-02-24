@@ -8,10 +8,10 @@ yarn start
 This performs following operations-
 It will cover the fundamentals for React.js including the following...
 
-Create-react-app CLI
-ReactJS Components
-State & Properties
-Event Handling
-JSX - JavaScript Syntax Extension
-Lifecycle Methods
-HTTP Requests
+- Create-react-app CLI
+- ReactJS Components
+- State & Properties
+- Event Handling
+- JSX - JavaScript Syntax Extension
+- Lifecycle Methods
+- HTTP Requests
